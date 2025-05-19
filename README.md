@@ -5,7 +5,7 @@
 Welcome to the 8-week ML Bootcamp! This repository contains a week-by-week breakdown of topics, structured content, and implementation links to help you become proficient in Python, EDA, ML algorithms, and Deep Learning.
 
 
-![Alt Text](Machine Learning)
+![Alt Text](Machine Learning.png)
 
 ---
 
