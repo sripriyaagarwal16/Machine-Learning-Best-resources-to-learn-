@@ -10,7 +10,7 @@ Welcome to the 8-week ML Bootcamp! This repository contains a week-by-week break
 
 Now we're getting to the fun parts.
 
-Again here, I'm going to recommend two courses, one easier to follow, and one more deep and academic.
+Here is one of the popular and easier course to follow : 
 
 - **Easier to follow (Probably more popular):**
 	- [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)\
