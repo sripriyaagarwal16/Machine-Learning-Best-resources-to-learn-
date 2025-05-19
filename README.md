@@ -5,9 +5,31 @@
 Welcome to the 8-week ML Bootcamp! This repository contains a week-by-week breakdown of topics, structured content, and implementation links to help you become proficient in Python, EDA, ML algorithms, and Deep Learning.
 
 
+
 ![Project Architecture](https://github.com/sripriyaagarwal16/Machine-Learning-Best-resources-to-learn-/blob/main/Machine.png)
 
+Now we're getting to the fun parts.
 
+Again here, I'm going to recommend two courses, one easier to follow, and one more deep and academic.
+
+- **Easier to follow (Probably more popular):**
+	- [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction)\
+		This is probably the most popular ML course on the internet and A LOT of people have started their path into ML using it. It's also the most popular and I guess the highest ranked course on Coursera (4.9/5).
+
+		This Specialization is made of 3 courses covering the main parts of Machine Learning and by the end of it, you'll have a good understanding of ML Algorithms and how to implement and use them in python.
+		
+		You can audit the course for free, or enroll to get the certificate. Also, Coursera has this option called Financial Aid for those who can't afford the course, you can just click on the Financial Aid button and explain why you should get this course for free and in 15 days, you'll receive an email saying Congrats, you got it :)))
+
+ **More deep, academic course:**
+	- Stanford CS229 Machine Learning\
+		This is the Machine Learning course taught at Stanford University, recorded in the class and uploaded on YouTube.
+
+		Well, as I said before, I'm a fan of more deep academic courses and this is **THE COURSE** to go with if you're like me.
+		It involves a lot more math and details on ML concepts and algorithms and of course is more difficult to follow, but if you think you'll be ok with the huge math and stuff and you won't run away halfway through the course, don't even hesitate to start with this one.
+
+		The videos are uploaded online on YouTube and the course material is accessible from the course website.
+		Two versions are available online, one from the [**Autumn 2018 (Andrew Ng)**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) semester and one from [**Summer 2019 (Anand Avati)**](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh).
+		
 ---
 
 
